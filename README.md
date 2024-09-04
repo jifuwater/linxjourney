@@ -8,4 +8,4 @@
 * copy all files on your .config folder and make all sh file executable: /polybar/script/* and subfolder, /rofi/rofitodo.sh, i3/scripts/* and subfolders.
 * To use my colorscheme in vim put:  **source "PATH to"/.config/kitty/mycolorscheme.vim** in your .vimrc
 
-#### Note: lofi and wind button take some seconds to start
+#### Note: lofi and wind button take some seconds to start 5-8s
