@@ -1,5 +1,5 @@
 # linxjourney ⚔️
-![Desktop](desktop.png)
+![Desktop](uniti.png)
 ## Setup:
 * Install mpv,powerprofiles,feh,rofi,kitty,dunst,polybar,networkmanager,polkit-kde-agent,picom,blueman.
 * Install [FiraCode Nerd Fonts](https://www.nerdfonts.com/font-downloads), **pacman -S ttf-firacode-nerd**
