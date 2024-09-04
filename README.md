@@ -1,7 +1,7 @@
 # linxjourney ⚔️
 ![Desktop](uniti.png)
 ## Setup: 
-![Desktop](bar.png) $~~~~~~~~~~~$ ![Desktop](bar1.png)
+![Desktop](bar.png) $~~$ ![Desktop](bar1.png)
 * Install mpv,powerprofiles,feh,rofi,kitty,dunst,polybar,networkmanager,polkit-kde-agent,picom,blueman.
 * Install [FiraCode Nerd Fonts](https://www.nerdfonts.com/font-downloads), **pacman -S ttf-firacode-nerd**
 * Install gohu-nerd **pacman -S ttf-gohu-nerd**
