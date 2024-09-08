@@ -597,7 +597,7 @@ strip_workspace_numbers yes
 
 ## rofi bindings fancy application menu ($mod+d /F9 optional disabled)
 
-bindsym $mod+space exec --no-startup-id /home/flavio/.config/rofi/launcher.sh 
+bindsym $mod+space exec --no-startup-id ~/.config/rofi/launcher.sh 
 
 #bindsym F9 exec --no-startup-id rofi -modi drun -show drun \
 #		-config ~/.config/rofi/rofidmenu.rasi
