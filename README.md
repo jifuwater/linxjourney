@@ -10,4 +10,4 @@
 * To use my colorscheme in vim put:  **source "PATH to"/.config/kitty/mycolorscheme.vim** in your .vimrc
 * [folder-themes](https://github.com/catppuccin/papirus-folders)
 
-#### Note: lofi and wind button take some seconds to start 5-8s
+#### Note: lofi and wind button take some seconds to start 5-8s ; navigate rofi with **ctrl+j,k** and **ctrl+h** to change mode
