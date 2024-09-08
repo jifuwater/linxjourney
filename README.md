@@ -1,5 +1,5 @@
 # linxjourney ⚔️
-![Desktop](uniti.png)
+![Desktop](unito.png)
 ## Setup: 
 ![Desktop](bar1.png)
 * Install mpv,powerprofiles,feh,rofi,kitty,dunst,polybar,networkmanager,polkit-kde-agent,picom,blueman.
