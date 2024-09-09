@@ -12,6 +12,7 @@
 * gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
 ---
 Little hack to make gtk theme work with lxappearance (use thunar for file)
+
 Surely not the best solution but:
 
 Take this files:
