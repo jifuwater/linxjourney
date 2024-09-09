@@ -24,6 +24,7 @@ Extract the catppuccin-mocha... gtk zip and delete the ...hdpi folders.
 The only folder that remains move it to \~/.themes
 
 Now open the folder, you can see that gtk-2.0 folder is missing. Copy this folder from the Ant folder downloaded with git.
+
 ---
 
 #### Note: lofi and wind button take some seconds to start 5-8s ; navigate rofi with "ctrl+j,k" and "ctrl+h" to change mode
