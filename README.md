@@ -7,7 +7,7 @@
 * Install gohu-nerd **pacman -S ttf-gohu-nerd**
 * Install rofi calc **yay -S rofi-calc**
 * copy all files on your .config folder and make all sh file executable: /polybar/script/* and subfolder, /rofi/rofitodo.sh, i3/scripts/* and subfolders.
-* go to .config/polybar/script/connect open the connesso.sh file, understand the first two line and put your devices
+* go to .config/polybar/script/connect open the connesso.sh file, understand the first two line and put your devices. (copy and paste on a terminal the code inside $() parenthesis,then change the names of devices; in my case Redmi Note 8 Pro and WH-CH520)
 * To use my colorscheme in vim put:  **source "PATH to"/.config/kitty/mycolorscheme.vim** in your .vimrc
 * [folder-themes](https://github.com/catppuccin/papirus-folders)
 * gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
