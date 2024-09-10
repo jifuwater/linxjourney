@@ -2,11 +2,12 @@
 ![Desktop](unito.png)
 ## Setup: 
 ![Desktop](bar1.png)
-* Install mpv,powerprofiles,feh,rofi,kitty,dunst,polybar,networkmanager,polkit-kde-agent,picom,blueman.
+* Install mpv,powerprofiles,feh,rofi,kitty,dunst,polybar,networkmanager,polkit-kde-agent,picom,blueman,kdeconnect.
 * Install [FiraCode Nerd - jetbrains-mono-nerd Fonts](https://www.nerdfonts.com/font-downloads), **pacman -S ttf-firacode-nerd ttf-jetbrains-mono-nerd**
 * Install gohu-nerd **pacman -S ttf-gohu-nerd**
 * Install rofi calc **yay -S rofi-calc**
 * copy all files on your .config folder and make all sh file executable: /polybar/script/* and subfolder, /rofi/rofitodo.sh, i3/scripts/* and subfolders.
+* go to .config/polybar/script/connect open the connesso.sh file, understand the first two line and put your devices
 * To use my colorscheme in vim put:  **source "PATH to"/.config/kitty/mycolorscheme.vim** in your .vimrc
 * [folder-themes](https://github.com/catppuccin/papirus-folders)
 * gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
