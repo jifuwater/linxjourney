@@ -11,6 +11,7 @@
 * To use my colorscheme in vim put:  **source "PATH to"/.config/kitty/mycolorscheme.vim** in your .vimrc
 * [folder-themes](https://github.com/catppuccin/papirus-folders)
 
+---
 ### gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
 ---
 Little hack to make gtk theme work with lxappearance (use thunar for file)
