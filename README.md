@@ -10,7 +10,8 @@
 * go to .config/polybar/script/connect open the connesso.sh file, understand the first two lines and put your devices. (copy and paste on a terminal the code inside $() parenthesis,then change the names of devices; in my case Redmi Note 8 Pro and WH-CH520)
 * To use my colorscheme in vim put:  **source "PATH to"/.config/kitty/mycolorscheme.vim** in your .vimrc
 * [folder-themes](https://github.com/catppuccin/papirus-folders)
-* gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
+
+### gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
 ---
 Little hack to make gtk theme work with lxappearance (use thunar for file)
 
@@ -28,5 +29,9 @@ The only folder that remains move it to \~/.themes
 Now open the folder, you can see that gtk-2.0 folder is missing. Take it from the Ant folder downloaded with git.
 
 ---
+### Firefox
+---
+Install Catppuccin Mocha-Lavender theme (you can find it in Settings > Extensions and Themes). The bar is a bit smaller; follow [this little guide](https://support.mozilla.org/bm/questions/1340443). The search engine is Startpage. The transparency settings that work for Startpage and the home page are done with Picom.
 
+---
 #### Note: lofi and wind button take some seconds to start 5-8s ; navigate rofi with "ctrl+j,k" and "ctrl+h" to change mode
