@@ -479,7 +479,7 @@ for_window [class="Pamac-manager"] floating enable
 for_window [window_role="About"] floating enable
 #for_window [title=".*"] opacity 1
 #for_window [title="^Startpage Search Results – Ablaze Floorp$"] opacity 0.9 
-
+for_window [class=".*"] border pixel 3
 
 
 
