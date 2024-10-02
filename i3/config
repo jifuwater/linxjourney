@@ -62,7 +62,7 @@ exec --no-startup-id /usr/bin/kdeconnectd
 # hide_edge_borders both
 
 # Set inner/outer gaps
-gaps inner 8 
+gaps inner 7 
 gaps outer 0 
 # for inserting password
 exec --no-startup-id /usr/lib/polkit-kde-authentication-agent-1
