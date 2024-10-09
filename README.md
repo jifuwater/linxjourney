@@ -6,7 +6,7 @@
 * Install [FiraCode Nerd - jetbrains-mono-nerd Fonts](https://www.nerdfonts.com/font-downloads), **pacman -S ttf-firacode-nerd ttf-jetbrains-mono-nerd**
 * Install gohu-nerd **pacman -S ttf-gohu-nerd**
 * Install rofi calc **yay -S rofi-calc**
-* copy all files on your .config folder and make all sh file executable: /polybar/script/* and subfolder, /rofi/rofitodo.sh, i3/scripts/* and subfolders.
+* copy all files on your .config folder and make all sh file executable: /polybar/script/* and subfolder, /rofi/launcher.sh, i3/scripts/* and subfolders.
 * go to .config/polybar/script/connect open the connesso.sh file, understand the first two lines and put your devices. (copy and paste on a terminal the code inside $() parenthesis,then change the names of devices; in my case Redmi Note 8 Pro and WH-CH520)
 * Use pulseaudio, for endeavour follow [link](https://discovery.endeavouros.com/audio/pulseaudio/2021/12/)
 * To use my colorscheme in vim put:  **source "PATH to"/.config/kitty/mycolorscheme.vim** in your .vimrc
